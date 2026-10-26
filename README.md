@@ -61,4 +61,3 @@ The current source passes four widget tests, `flutter analyze`, and a release we
 ## License
 
 No license has been added. Ask the project owner before reusing or redistributing this classroom project.
-

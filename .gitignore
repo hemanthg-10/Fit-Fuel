@@ -1,0 +1,26 @@
+# Ignore generated and local-only files
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+build/
+coverage/
+.idea/
+*.iml
+*.log
+*.pyc
+.DS_Store
+
+# Local Android signing and machine configuration
+android/local.properties
+android/key.properties
+*.jks
+*.keystore
+
+# Platform build products
+android/.gradle/
+ios/Flutter/.last_build_id
+macos/Flutter/ephemeral/
+windows/flutter/ephemeral/
+linux/flutter/ephemeral/

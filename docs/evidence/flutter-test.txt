@@ -1,0 +1,7 @@
+00:00 +0: loading <repository-root>/test/widget_test.dart
+00:00 +0: start page renders on a compact mobile viewport
+00:01 +1: login validation blocks empty credentials
+00:02 +2: login validation rejects short and numeric names and short password
+00:02 +3: valid credentials open dashboard and logout returns home
+00:03 +4: All tests passed!
+
